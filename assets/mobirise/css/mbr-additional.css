@@ -1817,6 +1817,9 @@ body {
   padding-bottom: 30px;
   background-color: #2e2e2e;
 }
+.cid-rtzHgSivaG .media-container-row .mbr-text {
+  color: #000000;
+}
 .cid-rtzND8bUmq {
   background: linear-gradient(45deg, #e4d295, #149dcc);
 }
@@ -2317,6 +2320,9 @@ body {
   padding-bottom: 30px;
   background-color: #2e2e2e;
 }
+.cid-rtzHgSivaG .media-container-row .mbr-text {
+  color: #000000;
+}
 .cid-rtzI9BIp54 {
   background-color: #232323;
 }
@@ -2816,6 +2822,9 @@ body {
   padding-bottom: 30px;
   background-color: #2e2e2e;
 }
+.cid-rtzHgSivaG .media-container-row .mbr-text {
+  color: #000000;
+}
 .cid-rtzK4n10di {
   background: linear-gradient(45deg, #e4d295, #ff3366);
 }
@@ -3293,6 +3302,9 @@ body {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #2e2e2e;
+}
+.cid-rtzHgSivaG .media-container-row .mbr-text {
+  color: #000000;
 }
 .cid-rtA7QXo8Cm {
   padding-top: 60px;
@@ -4027,9 +4039,9 @@ body {
   }
 }
 .cid-rtArkGNJlh {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background: linear-gradient(0deg, #7fdbfd, #6670a9);
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background: linear-gradient(0deg, #7fdbfd, #ffffff);
 }
 .cid-rtArkGNJlh .mbr-iconfont-social {
   font-size: 32px;
@@ -4041,5 +4053,8 @@ body {
 .cid-rtzHgSivaG {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #2e2e2e;
+  background-color: #7fdbfd;
+}
+.cid-rtzHgSivaG .media-container-row .mbr-text {
+  color: #000000;
 }
