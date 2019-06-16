@@ -2423,7 +2423,7 @@
     },
     "team.html": {
       "settings": {
-        "meta_descr": "Site Maker Description",
+        "meta_descr": "The DGT team.",
         "title": "Our Team",
         "order": 1
       },
