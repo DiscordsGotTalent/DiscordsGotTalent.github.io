@@ -4186,14 +4186,14 @@ body {
   transition: all .5s;
 }
 .cid-rtEe0UTucd .nav-tabs .nav-link:hover {
-  background-color: #0cb94b;
+  background-color: #149dcc;
 }
 .cid-rtEe0UTucd .nav-tabs .nav-link.active {
   font-weight: 500;
   color: #ffffff;
   font-style: normal;
   border: none;
-  background: #0cb94b;
+  background: #149dcc;
 }
 .cid-rtEe0UTucd .nav-tabs .nav-link.active:hover {
   border: none;
