@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Discord's Got Talent",
-    "currentPage": "terms.html",
+    "currentPage": "home.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -34,7 +34,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.3",
     "siteFonts": [],
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/dgt-logo-circle-128x128.png",
     "noImageResize": "",
     "uniqCompNum": 61,
     "versionPublish": "4.10.3"
