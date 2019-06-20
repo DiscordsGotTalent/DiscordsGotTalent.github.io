@@ -2400,6 +2400,13 @@ body {
 .cid-rtzIKDohgQ .copyright > p {
   color: #ffffff;
 }
+.cid-rtzK4n10di {
+  background: linear-gradient(45deg, #e4d295, #ff7f9f);
+}
+.cid-rtzK4n10di .mbr-section-subtitle {
+  font-style: italic;
+  letter-spacing: 1rem;
+}
 .cid-rtzEdpgCpL .navbar {
   padding: .5rem 0;
   background: #5e5e5e;
@@ -2793,21 +2800,6 @@ body {
 .cid-rtzEdpgCpL .nav-link:hover,
 .cid-rtzEdpgCpL .dropdown-item:hover {
   color: #232323 !important;
-}
-.cid-rtzHgSivaG {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #2e2e2e;
-}
-.cid-rtzHgSivaG .media-container-row .mbr-text {
-  color: #ffffff;
-}
-.cid-rtzK4n10di {
-  background: linear-gradient(45deg, #e4d295, #ff7f9f);
-}
-.cid-rtzK4n10di .mbr-section-subtitle {
-  font-style: italic;
-  letter-spacing: 1rem;
 }
 .cid-rtzMHc02Pc {
   padding-top: 45px;
